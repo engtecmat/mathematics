@@ -8,6 +8,8 @@
 
 - Commutative Law
 - Associative Law
+- Distributive Laws
+
 
 ## Books
 
