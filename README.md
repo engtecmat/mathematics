@@ -12,7 +12,7 @@
 
 ## Symbols
 
-- larger than or equal to: $\gep$
+- larger than or equal to: $\lep$
 
 ## Books
 
