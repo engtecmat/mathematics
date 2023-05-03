@@ -12,7 +12,7 @@
 
 ## Symbols
 
-- larger than or equal to: $ a\lepb $
+- larger than or equal to: $a\lepb$
 
 ## Books
 
