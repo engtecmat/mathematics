@@ -12,7 +12,7 @@
 
 ## Symbols
 
-- larger than or equal to: a^3
+- larger than or equal to: {{a^3}}
 
 ## Books
 
