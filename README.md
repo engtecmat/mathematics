@@ -10,6 +10,10 @@
 - Associative Law
 - Distributive Laws
 
+## Symbols
+
+- larger than or equal to: \geq
+
 
 ## Books
 
