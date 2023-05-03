@@ -12,7 +12,7 @@
 
 ## Symbols
 
-- larger than or equal to: $a^3$ $\leq$
+- larger than or equal to: $a^3$ $\leq$ $\geq$
 
 ## Books
 
