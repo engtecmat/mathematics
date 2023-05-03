@@ -12,7 +12,7 @@
 
 ## Symbols
 
-- larger than or equal to: $\leq
+- larger than or equal to: $\sqrt
 
 
 ## Books
