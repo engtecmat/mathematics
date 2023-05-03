@@ -12,7 +12,7 @@
 
 ## Symbols
 
-- larger than or equal to: \geq
+- larger than or equal to: \leq
 
 
 ## Books
