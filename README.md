@@ -12,7 +12,7 @@
 
 ## Symbols
 
-- larger than or equal to: $\sqrt{3x-1}+(1+x)^2$
+- larger than or equal to: $\gep$
 
 ## Books
 
