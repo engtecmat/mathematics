@@ -14,6 +14,7 @@
 
 - larger than or equal to: $\geq$
 - smaller than or equal to: $\leq$
+- summation: $\Sigma$
 
 ## Books
 
